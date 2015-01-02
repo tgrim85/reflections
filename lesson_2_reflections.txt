@@ -5,3 +5,7 @@ When a repository is initialized it has no commits yet.  Something must be commi
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area provides a place where files can be added prior to being committed. The working directory is the directory I am currently working in on my hard drive and the repository stores what I commit.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+I can make sure that I use the staging area and get diff to ensure that changes I am getting ready to commit are in logical pieces.
