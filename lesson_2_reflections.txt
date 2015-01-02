@@ -13,3 +13,7 @@ I can make sure that I use the staging area and get diff to ensure that changes 
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches would allow me to explore new ideas or features without messing with a working version of my program.
+
+5.How do the diagrams help you visualize the branch structure?
+
+They allow you to see what commit histories look like visually so that you can tell when you end up in a detached head situation or where various branches started.
