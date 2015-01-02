@@ -5,3 +5,7 @@ When I would like to make my changes available to others.
 2.Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I wouldn't to make changes public until I was ready.
+
+3.Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks make a copy of a github repository to your own github repository. A clone pulls a copy of repository on github into your local repository. A branch is a commit that has been made outside of the master branch.
