@@ -17,3 +17,7 @@ Branches would allow me to explore new ideas or features without messing with a 
 5.How do the diagrams help you visualize the branch structure?
 
 They allow you to see what commit histories look like visually so that you can tell when you end up in a detached head situation or where various branches started.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When you merge two branches you combine both of their commit histories into one branch.  This is why the diagram removes the name of the old branch and changes the new merged on to master since both branch tracks are now in the master track.
