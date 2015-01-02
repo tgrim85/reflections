@@ -21,3 +21,7 @@ They allow you to see what commit histories look like visually so that you can t
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 When you merge two branches you combine both of their commit histories into one branch.  This is why the diagram removes the name of the old branch and changes the new merged on to master since both branch tracks are now in the master track.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+git's automatic merging would make basic merges much simpler but leaves conflict resolution decisions when conflicts do arise to the user.
