@@ -9,3 +9,7 @@ The staging area provides a place where files can be added prior to being commit
 3. How can you use the staging area to make sure you have one commit per logical change?
 
 I can make sure that I use the staging area and get diff to ensure that changes I am getting ready to commit are in logical pieces.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would allow me to explore new ideas or features without messing with a working version of my program.
