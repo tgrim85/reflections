@@ -9,3 +9,7 @@ I wouldn't to make changes public until I was ready.
 3.Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks make a copy of a github repository to your own github repository. A clone pulls a copy of repository on github into your local repository. A branch is a commit that has been made outside of the master branch.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This would make it possible for me to see the differences between my local changes and the most recent github repository before pushing additional changes to GitHub.
