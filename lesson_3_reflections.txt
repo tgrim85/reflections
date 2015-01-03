@@ -13,3 +13,7 @@ Forks make a copy of a github repository to your own github repository. A clone 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This would make it possible for me to see the differences between my local changes and the most recent github repository before pushing additional changes to GitHub.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be much more difficult without an application like GitHub because everyone would have to track their own versions and changes without any defined system.
