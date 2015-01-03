@@ -17,3 +17,8 @@ This would make it possible for me to see the differences between my local chang
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 It would be much more difficult without an application like GitHub because everyone would have to track their own versions and changes without any defined system.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making changes in a separate branch allows other collaborators to see the changes before they get merged into the master branch on GitHub. If you are working by yourself then it would make sense to make changes directly to master.
+
